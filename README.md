@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚧 I’m currently working on<br>Wi-Fi Time Machine, BLE Radar, and weird Linux tools.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source projects, hackathons, and experimental software.<br><br>🤝 I’m looking for help with<br>Systems programming, Rust, AI, and turning crazy ideas into real projects.<br><br>🌱 I’m currently learning<br>Linux internals, networking, cybersecurity, AI, and low-level programming.<br><br>💬 Ask me about<br>Linux, AI, wireless networks, programming, weird projects, or anything I'm building.<br><br>⚡ Fun fact<br>I like building things that make people ask: "Why does this exist?" — then making them actually useful.
+🚧 I’m currently working on<br>AI and weird Linux tools.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source projects, hackathons, and experimental software.<br><br>🤝 I’m looking for help with<br>Systems programming, Rust, AI, and turning crazy ideas into real projects.<br><br>🌱 I’m currently learning<br>Linux internals, networking, cybersecurity, AI, and low-level programming.<br><br>💬 Ask me about<br>Linux, AI, wireless networks, programming, weird projects, or anything I'm building.<br><br>⚡ Fun fact<br>I like building things that make people ask: "Why does this exist?" — then making them actually useful.
 
 
 ## 🌐 Socials:
